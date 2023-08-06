@@ -1,0 +1,31 @@
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\bin\Debug\net6.0\El Rinconcito.staticwebassets.runtime.json
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\bin\Debug\net6.0\El Rinconcito.exe
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\bin\Debug\net6.0\El Rinconcito.deps.json
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\bin\Debug\net6.0\El Rinconcito.runtimeconfig.json
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\bin\Debug\net6.0\El Rinconcito.dll
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\bin\Debug\net6.0\El Rinconcito.pdb
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\El Rinconcito.csproj.AssemblyReference.cache
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\El Rinconcito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\El Rinconcito.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\El Rinconcito.AssemblyInfo.cs
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\El Rinconcito.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\El Rinconcito.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\El Rinconcito.RazorAssemblyInfo.cache
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\El Rinconcito.RazorAssemblyInfo.cs
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\staticwebassets\msbuild.El Rinconcito.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\staticwebassets\msbuild.build.El Rinconcito.props
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.El Rinconcito.props
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.El Rinconcito.props
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\scopedcss\bundle\El Rinconcito.styles.css
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\scopedcss\projectbundle\El Rinconcito.bundle.scp.css
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\El Rinconcito.dll
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\refint\El Rinconcito.dll
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\El Rinconcito.pdb
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\El Rinconcito.genruntimeconfig.cache
+C:\Users\User\Documents\VStudio\MyProjects\El Rinconcito\El Rinconcito\obj\Debug\net6.0\ref\El Rinconcito.dll

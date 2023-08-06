@@ -1,0 +1,22 @@
+html {
+    font-size: 14px;
+    background-color: hsl(150, 68%, 90%);
+}
+
+@media (min-width: 768px) {
+    html {
+        background-color: hsl(150, 68%, 90%);
+        font-size: 16px;
+    }
+}
+
+html {
+    background-color: hsl(150, 68%, 90%);
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    background-color: hsl(150, 68%, 90%);
+    margin-bottom: 60px;
+}
